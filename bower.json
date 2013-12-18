@@ -1,0 +1,15 @@
+{
+  "name": "ES6-Promises",
+  "version": "0.1.0",
+  "homepage": "https://github.com/jakearchibald/ES6-Promises",
+  "author": "Tilde, Inc. (Conversion to ES6 API by Jake Archibald)",
+  "description": "A polyfill for ES6-style Promises, tracking rsvp",
+  "main": "dist/promise-0.1.0.js",
+  "keywords": [
+    "promises",
+    "futures",
+    "events",
+    "ES6"
+  ],
+  "license": "MIT"
+}
